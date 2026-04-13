@@ -1,0 +1,11 @@
+# Секреты
+.env
+*.key
+
+# Логи и временные файлы
+*.log
+*.tmp
+
+# Системные файлы Windows/macOS
+Thumbs.db
+.DS_Store
