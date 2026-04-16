@@ -1,1 +1,1 @@
-const logger = (msg) => console.log('[LOG]', msg);
+const createLogger = (msg) => console.log('[LOG]', msg);
