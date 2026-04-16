@@ -8,4 +8,8 @@
 
 # Системные файлы Windows/macOS
 Thumbs.db
+.DS_Store.env
+*.log
+*.tmp
+Thumbs.db
 .DS_Store
