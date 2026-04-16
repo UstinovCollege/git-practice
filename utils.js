@@ -1,1 +1,3 @@
-export const formatDate = (d) => new Date(d).toLocaleDateString();
+export const formatDate = (d) => {
+return new Date(d).toLocaleDateString();
+}
