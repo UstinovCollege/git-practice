@@ -1,1 +1,1 @@
-console.log('App v2 started');
+console.log('App started');
